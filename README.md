@@ -1,10 +1,8 @@
 ### Hi there, I'm Diego 👋
 
-## I am a computer scientist who wants to leverage data-driven solutions that make an impact on society!
-
 - 🎓 **Computer Scientist**
 
-- 💻 **I'm currently working as a Data Analyst and Business Intelligence**
+- 💻 **I'm currently working as a Business Intelligence Analyst**
 
 - 🧠 **I’m currently learning Machine Learning**
 
