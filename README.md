@@ -2,7 +2,7 @@
 
 - 🎓 **Computer Scientist**
 
-- 💻 **I'm currently working as a Business Intelligence Analyst**
+- 💻 **Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>**
 
 - 🧠 **I’m currently learning Machine Learning**
 
