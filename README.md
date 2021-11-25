@@ -18,6 +18,6 @@
 
 **Languages and Tools:** 
 <p align="left">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://media.giphy.com/media/nwqGCEEwzTjcOgX0CR/giphy.gif" width="35"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/egBJZG1Vd3hpBEwaNA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://media.giphy.com/media/nwqGCEEwzTjcOgX0CR/giphy.gif" width="35"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/egBJZG1Vd3hpBEwaNA/giphy.gif" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 
 </p>
