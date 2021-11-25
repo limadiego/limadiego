@@ -14,11 +14,10 @@
 
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=limadiego&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=limadiego&show_icons=true)
 
-### Languages and Tools:
-
+**Languages and Tools:** 
+<p align="left">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 
-
----
+</p>
