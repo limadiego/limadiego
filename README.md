@@ -1,8 +1,11 @@
 <h2> Hi there, I'm Diego 👋 </h2>
 
-- 🎓 **B.Sc. in Computer Science at <a href="http://www.cefet-rj.br/">CEFET/RJ</a>**
-- 🎓 **Specialization Student in Machine Learning and Big Data at <a href="https://www.icmc.usp.br/">USP</a>**
-- 💻 **Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>**
+<p><em>🎓 B.Sc. in Computer Science at <a href="http://www.cefet-rj.br/">CEFET/RJ</a> 
+</em></p>
+<p><em>🎓 Specialization Student in Machine Learning and Big Data at <a href="https://www.icmc.usp.br/">USP</a>
+</em></p>
+<p><em💻 Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>
+</em></p>
 
 <div align="left">
 <i>Let's Connect:</i><br>
