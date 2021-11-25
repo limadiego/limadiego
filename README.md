@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego 👋
 
-- 🎓 **B.Sc. in Computer Science at <a href="http://www.cefet-rj.br/">USP</a>**
+- 🎓 **B.Sc. in Computer Science at <a href="http://www.cefet-rj.br/">CEFET/RJ</a>**
 - 🎓 **Specialization Student in Machine Learning and Big Data at <a href="https://www.icmc.usp.br/">USP</a>**
 - 💻 **Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>**
 
@@ -15,11 +15,7 @@
 
 ### Languages and Tools:
 
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
-
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 
 
 <br />
