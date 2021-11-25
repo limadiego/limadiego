@@ -4,7 +4,7 @@
 </em></p>
 <p><em>🎓 Specialization Student in Machine Learning and Big Data at <a href="https://www.icmc.usp.br/">USP</a>
 </em></p>
-<p><em💻 Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>
+<p><em>💻 Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>
 </em></p>
 
 <div align="left">
@@ -14,6 +14,7 @@
 
 </div>
 
+![github stats](https://github-readme-stats.vercel.app/api?username=limadiego&show_icons=true&hide_border=true)
 
 ### Languages and Tools:
 
@@ -21,5 +22,3 @@
 
 
 ---
-
-<img align="left" alt="Diego's Github Stats" src="https://github-readme-stats.vercel.app/api?username=limadiego&show_icons=true&hide_border=true" />
