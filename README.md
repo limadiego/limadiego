@@ -4,7 +4,7 @@
 </em></p>
 <p><em>🎓 Specialization Student in Machine Learning and Big Data at <a href="https://www.icmc.usp.br/">USP</a>
 </em></p>
-<p><em>💻 Business Intelligence Analyst at <a href="https://www.orama.com.br/">Órama</a>
+<p><em>💻 Data Engineer at <a href="https://www.passeidireto.com/">Passei Direto</a>
 </em></p>
 
 <div align="left">
